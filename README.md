@@ -24,7 +24,7 @@ This project was created to simplify personal photo management, avoiding the man
 
 ### Option 1 — Executable (.exe)
 1. Go to the `dist/` folder
-2. Download the `organizador.exe` file
+2. Download the `photo_sorter.exe` file
 3. Run the application
 4. Select the folder containing your photos
 5. The program will automatically organize them
