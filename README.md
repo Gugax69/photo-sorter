@@ -19,3 +19,5 @@ Aplicação simples para organizar automaticamente fotos em pastas, baseada em c
 - (PyInstaller para gerar o .exe)
 
 ## 📁 Estrutura do projeto
+dist/ → ficheiro executável
+src/ → código-fonte Python
