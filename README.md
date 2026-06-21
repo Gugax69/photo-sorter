@@ -1,23 +1,36 @@
-# Organizador de Fotos 📸
+# 📸 Photo Organizer
 
-Aplicação simples para organizar automaticamente fotos em pastas, baseada em critérios como data, tipo ou nome.
+A simple and efficient application to automatically organize photos into folders, making it easier to manage large image collections.
 
-## 🚀 Funcionalidades
-- Organiza imagens automaticamente
-- Interface simples (ou execução via .exe)
-- Suporte a múltiplos formatos de imagem
-- Rápido e leve
+---
 
-## 📦 Como usar
-1. Faz download do ficheiro `.exe` na pasta `dist`
-2. Executa o programa
-3. Escolhe a pasta com as fotos
-4. O programa organiza automaticamente
+## 🚀 Features
 
-## 🛠️ Tecnologias usadas
-- Python
-- (PyInstaller para gerar o .exe)
+- 📁 Automatic image organization into folders
+- ⚡ Fast and lightweight processing
+- 🧠 Rule-based classification system
+- 🖥️ Standalone executable (.exe) — no Python required
+- 📂 Supports multiple image formats (JPG, PNG, etc.)
 
-## 📁 Estrutura do projeto
-- dist/ → ficheiro executável
-- src/ → código-fonte Python
+---
+
+## 🎯 Purpose
+
+This project was created to simplify personal photo management, avoiding the manual task of sorting thousands of images.
+
+---
+
+## 📦 How to Use
+
+### Option 1 — Executable (.exe)
+1. Go to the `dist/` folder
+2. Download the `organizador.exe` file
+3. Run the application
+4. Select the folder containing your photos
+5. The program will automatically organize them
+
+### Option 2 — Source Code (Python)
+1. Install Python 3.x
+2. Install dependencies (if applicable):
+   ```bash
+   pip install -r requirements.txt
